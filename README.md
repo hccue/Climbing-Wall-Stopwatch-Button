@@ -1,5 +1,7 @@
 # Climbing Wall Pusher
 
+<img width="622" alt="button" src="https://github.com/user-attachments/assets/297a7b93-5aea-42a3-aa6a-ebb5527d7e4c" />
+
 A fun DIY project using an ESP32 to time your climbing session with a countdown and celebration tone.
 
 ## 🧗 Overview
@@ -53,3 +55,8 @@ MIT License
 ---
 
 > ⚠️ *This is a personal DIY project. Use at your own risk. Always follow safety precautions when working with electrical circuits.*
+
+
+<img width="568" alt="button3" src="https://github.com/user-attachments/assets/849f44c0-d880-4fa8-a06d-82f85e8797ce" />
+
+<img width="587" alt="button2" src="https://github.com/user-attachments/assets/b573e9da-3548-447d-baf1-b8a65507b59a" />
