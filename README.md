@@ -42,9 +42,9 @@ To keep things simple, the device is powered directly from the ceiling light cir
 ## 🚀 Getting Started
 
 1. **Clone this repository**
-2. **Assemble the hardware** following the wiring diagram (or your custom layout)
+2. **Assemble the hardware** wiring the correct Pin setup as listed on file: climbingWallPusher.ino  
 3. **Flash the firmware** to the ESP32 using Arduino IDE or your preferred tool
-4. **Mount** the device in the ceiling box and connect it to the light circuit
+4. **Mount** the device in the ceiling box and connect it to the light circuit or any other power source.
 
 When the lights are turned on, the countdown begins. Press the top button to stop the timer and celebrate!
 
