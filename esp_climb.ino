@@ -13,7 +13,7 @@
  * @author Santiago Borja
  * @date 7 - jul - 2025
  */
-
+//hello sara
 
 #include <TM1637TinyDisplay.h>
 #include "pitches.h"
@@ -25,8 +25,8 @@
 #define LED_PIN                     14 //Use 220 to 300 resistor
 
 //TM1637TinyDisplay 7 segment 4 digit display
-#define CLK 22
-#define DIO 23
+#define CLK 11
+#define DIO 10
 TM1637TinyDisplay display           = TM1637TinyDisplay(CLK, DIO);
 const int BRIGHTNESS_DISPLAY        = 5; //(0=dimmest 7=brightest)
 const uint8_t allON[]               = {0xff, 0xff, 0xff, 0xff};
